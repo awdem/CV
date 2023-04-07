@@ -1,69 +1,86 @@
-## Your Name
+## Will de Montmollin
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a student at Maker's Academy. I love to understand what makes things work.
 
-## Projects
-
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**OrganicLea Worker's Cooperative** (2020 - 2023)  
+_Box Scheme Administrator_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- working with/leading people, logistics
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+_Veg Scheme Administrator_ 
 
-- Any experience relevent to software development
+- logistics, quick-thinking, calm response to sudden changes/stress 
+
+**Sustain** (June 2019 - December  2019) 
+_Assistant Editor for London Food Link_
+
+- Editing, writing, logistics for magazine delivery
+
 
 ## Skills
-
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-#### Another skill
+#### Logistics
+
+Analytical mind, problem solving, use veg box as example (50% growth)
+
+#### Teamwork
+
+listener, calming, funny, easy going use edventure or vegbox as example (trainee --> admin)
+
+#### Communication
+
+writing, clear, honest, lay groundwork, use Jellied Eel or MA thesis as example?
 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2023 - Present)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- e.g Frequently used pairing in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Copenhagen, Denmark (2016-2018)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- 2-year MSc in Food Innovation and Health
+- Graduated with 10 avg. (equivalent to Merit)
+- I wrote my thesis on how Nordic chefs use the principles of sustainability, health, culture and palatability in developing dishes and menus
 
-#### Any other qualifications
+#### Allegheny College, Pennsylvania, U.S.A. (2010 - 2014)
 
-That in some arguable way make you a better software developer or well-rounded person
+- BSc in Chemistry
+- Graduated with equivalent to 2.1
+- Minor in French
+
+### Other qualifications
+
+#### Edventure START-UP, Edventure Frome (2022)
+
+#### Level 1 and 2 Work-based Horticulture award, London City and Guilds (2020-2021)
+
+#### DALF C1 French (2016)
+
+## Projects - Coming Soon!
+
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Something else worked on** | A webapp to do y. | Ruby              |
+
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+cooking
+hiking, camping, plants
+board games/ roleplaying games
