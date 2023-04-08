@@ -1,6 +1,6 @@
 ## Will de Montmollin
 
-I am a student at Maker's Academy. I love to understand what makes things work.
+I am a student at Maker's Academy. I can do the following things for you... I'm looking for..  I love to understand what makes things work.
 
 
 ## Work Experience
@@ -29,15 +29,17 @@ _Assistant Editor for London Food Link_
 
 #### Logistics
 
+In my time at OrganicLea, I went from being a trainee to becoming an integral part of the distribution team. During the pandemic, the box scheme doubled its customer base, and I'm proud to have contributed to...
+
 Analytical mind, problem solving, use veg box as example (50% growth)
 
 #### Teamwork
 
-listener, calming, funny, easy going use edventure or vegbox as example (trainee --> admin)
+listener, calming, funny, easy going use edventure MSc or vegbox as example
 
 #### Communication
 
-writing, clear, honest, lay groundwork, use Jellied Eel or MA thesis as example?
+writing, clear, honest, lay groundwork, use Jellied Eel or MSx thesis as example?
 
 
 ## Education
@@ -72,12 +74,6 @@ writing, clear, honest, lay groundwork, use Jellied Eel or MA thesis as example?
 #### DALF C1 French (2016)
 
 ## Projects - Coming Soon!
-
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-
 
 ## Hobbies
 
