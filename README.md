@@ -1,8 +1,16 @@
 ## Will de Montmollin
 
-I am a student at Maker's Academy. I can do the following things for you... I'm looking for..  I love to understand what makes things work.
+Aspiring Developer. Recent graduate of [Maker's Academy](https://apply.makers.tech/tech-skills-bootcamp-in-software-engineering). I love to understand what makes things work. 
+<!-- I can do the following things for you... I'm looking for..   -->
 
+## Projects 
 
+| Name | Description | Tech/tools |
+|------|------------|-------------|
+| [Excuse](https://github.com/awdem/excuse) | Two-week final project for Makers. A mobile app that generates excuses using Open AI API and Nasa's EoNet. | React Native, Expo, Open AI API, EoNet, Express, Jest, Axios, NodeJS |
+| [Trelloship](https://github.com/awdem/GildedRose-kata-js-jest) | A LoTR-inspired facebook clone (Don't ask). Two-week engineering project at makers geared towards understanding and adding to an existing codebase.  | MERN stack, Jest, Cypress|
+| [Gilded Rose](https://github.com/awdem/GildedRose-kata-js-jest) | My approach to the infamous Gilded Rose kata in Javascript. | NodeJS, Jest|
+| [Bank Tech Test](https://github.com/awdem/bank-tech-test) |  A simple bank account program that allows you to make deposits and withdrawals and will print a statement of all the transactions in your account.  | NodeJS, Jest|
 ## Work Experience
 
 **OrganicLea Worker's Cooperative** (2020 - 2023)  
@@ -22,42 +30,40 @@ _Assistant Editor for London Food Link_
 
 ## Skills
 
-- I achieved A during my work at B (job, or otherwise)
+<!-- - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
 #### Logistics
 
-In my time at OrganicLea, I went from being a trainee to becoming an integral part of the distribution team. During the pandemic, the box scheme doubled its customer base, and I'm proud to have contributed to...
+<!-- In my time at OrganicLea, I went from being a trainee to becoming an integral part of the distribution team. During the pandemic, the box scheme doubled its customer base, and I'm proud to have contributed to...
 
-Analytical mind, problem solving, use veg box as example (50% growth)
+Analytical mind, problem solving, use veg box as example (50% growth) -->
 
 #### Teamwork
 
-listener, calming, funny, easy going use edventure MSc or vegbox as example
+<!-- listener, calming, funny, easy going use edventure MSc or vegbox as example -->
 
 #### Communication
 
-writing, clear, honest, lay groundwork, use Jellied Eel or MSx thesis as example?
+<!-- writing, clear, honest, lay groundwork, use Jellied Eel or MSx thesis as example? -->
 
 
 ## Education
 
-#### Makers Academy (March 2023 - Present)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used pairing in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy Tech Bootcamp (March 2023 - July 2023)
+- 4-month intensive coding bootcamp. 
+- Frequently used pairing in order to problemsolve effeciently, requiring teamwork and communication.
+- Focused on TDD, pair-programming and OOP
+- Collaborated in groups using AGILE methodology 
+- Made Projects using Ruby, JavaScript, MERN stack, React Native, 
 
 #### University of Copenhagen, Denmark (2016-2018)
 
 - 2-year MSc in Food Innovation and Health
 - Graduated with 10 avg. (equivalent to Merit)
-- I wrote my thesis on how Nordic chefs use the principles of sustainability, health, culture and palatability in developing dishes and menus
+- Wrote Thesis on how Nordic chefs use the principles of sustainability, health, culture and palatability in developing dishes and menus
 
 #### Allegheny College, Pennsylvania, U.S.A. (2010 - 2014)
 
@@ -73,10 +79,7 @@ writing, clear, honest, lay groundwork, use Jellied Eel or MSx thesis as example
 
 #### DALF C1 French (2016)
 
-## Projects - Coming Soon!
-
 ## Hobbies
 
-cooking
-hiking, camping, plants
-board games/ roleplaying games
+cooking, hiking, camping, plants
+board games/roleplaying games
