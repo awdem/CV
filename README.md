@@ -29,6 +29,13 @@ _Veg Scheme Administrator_
 - Wrote weekly newsletters to engage customers with the source of their produce
 - Promoted box scheme on social media
 
+**Bore Place Market Garden** (June 2021 - October 2021)
+
+_Part-time Seasonal Grower_
+
+- Harvested 22 different crops for wholesale in height-of-season at a 6-acre field-scale market garden at a fast pace-of-harvest
+- Supported additional horticultural tasks
+
 **Sustain** (June 2019 - December  2019) 
 
 _Assistant Editor for London Food Link_
@@ -65,7 +72,7 @@ I have an analytical mind and enjoy problem-solving, which is often reflected in
 
 #### Teamwork
 
-I'm a calm, easy-going person who is conscious of other people's moods and needs. Throughout my experience professionally and as a student, I've often received compliments on my calm demeanour, level-headnesses, and ability to keep the team motivated and on track. The retros and stand-ups that I facilitated during group projects at Maker's were often the most productive and rewarding. I also proposed daily mood check-ins that were well-received and fostered team cohesion. During my time at Edventure, our group had to work to strict deadlines to organize events and present our project to stakeholders; Afterwards, I was recognized by my group for keeping us focused and preventing us from feeling overwhelmed in otherwise high-pressure situations. I was also complimented for my ability to give and recieve feedback in a way that was non-judgemental and productive.
+I'm a calm, easy-going person who is conscious of other people's moods and needs. When working in teams throughout my professional and student experience, I've often received compliments on my calm demeanour, level-headnesses, and ability to keep the team motivated and on track. Here are some recent examples: the retros and stand-ups that I facilitated during group projects at Maker's were often the most productive and rewarding. I also proposed daily mood check-ins that were well-received and fostered team cohesion. During my time at Edventure, our group had to work to strict deadlines to organize events and present our project to stakeholders; Afterwards, I was recognized by my group for keeping us focused and preventing us from feeling overwhelmed in otherwise high-pressure situations. I was also complimented for my ability to give and recieve feedback in a way that was non-judgemental and productive.
 
 <!-- listener, calming, funny, easy going use edventure MSc or vegbox as example 
 able to bring up conflicting personalities in a healthy and productive way?-->
@@ -103,8 +110,12 @@ able to bring up conflicting personalities in a healthy and productive way?-->
 #### Level 1 and 2 Work-based Horticulture award, OrganicLea (2020-2021)
 - 9 month London City and Guilds accredited horticulture course 
 #### DALF C1 French (2016)
+- Diploma issued by the French Ministry of Education certifying C1 (advanced) level of French language skill
 
 ## Hobbies
 
-cooking, hiking, camping, plants,
-board games/roleplaying games
+- cooking
+- hiking
+- camping
+- plants
+- board games and roleplaying games
