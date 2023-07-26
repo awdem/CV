@@ -2,21 +2,21 @@
 
 I’m Will, a recent graduate of [Maker's Academy](https://apply.makers.tech/tech-skills-bootcamp-in-software-engineering) tech bootcamp. I'm an aspiring developer with experience in developing web and mobile apps using the MERN stack, React Native and Ruby with Active Record. I love to understand what makes things work. 
 
-Before Makers, I had a variety of roles: an administrator and grower at a community garden, a barista and an english language teaching assistant. I find coding exciting because it  engages my creativity and problem-solving. Tech has been a big part of my life since I was a kid, and learning to code feels like a peek behind the curtain of what makes modern life move.
+Before Makers, I had a variety of roles: an administrator and grower at a community garden, a barista and an English language teaching assistant. I find coding exciting because it  engages my creativity and problem-solving. Tech has been a big part of my life since I was a kid, and learning to code feels like a peek behind the curtain of what makes modern life move.
 
 ## Projects 
 
 | Name | Description | Tech/tools |
 |------|------------|-------------|
 | [Excuse](https://github.com/awdem/excuse) | Two-week final project for Makers. A mobile app that generates excuses using Open AI API and Nasa's EoNet. | React Native, Expo, Open AI API, EoNet, Express, Jest, Axios, NodeJS |
-| [Trelloship](https://github.com/awdem/GildedRose-kata-js-jest) | A LoTR-inspired facebook clone (Don't ask). Two-week engineering project at makers geared towards understanding and adding to an existing codebase.  | MERN stack, Jest, Cypress|
+| [Trelloship](https://github.com/awdem/trelloship_of_the_string) | A LoTR-inspired facebook clone (Don't ask). Two-week engineering project at makers geared towards understanding and adding to an existing codebase.  | MERN stack, Jest, Cypress|
 | [Bank Tech Test](https://github.com/awdem/bank-tech-test) |  A simple bank account program that allows you to make deposits and withdrawals and will print a statement of all the transactions in your account.  | NodeJS, Jest|
 | [Chitter Challenge](https://github.com/awdem/chitter-challenge) | A small twitter clone completed as a solo challenge for Makers. | Ruby, RSpec, PostgresSQL, Sinatra, Active Record, Bcrypt |
 <!-- | [Gilded Rose](https://github.com/awdem/GildedRose-kata-js-jest) | My approach to the infamous Gilded Rose kata in Javascript. | NodeJS, Jest| -->
 
 ## Work Experience
 
-**OrganicLea Worker's Cooperative** (2020 - 2023)  
+**OrganicLea Workers Cooperative** (2020 - 2023)  
 _Box Pack Administrator_
 
 - Oversaw for the smooth-running of a weekly 1,200-customer veg box pack
@@ -66,26 +66,27 @@ _English Language Teaching Assistant_
 
 #### Logistics
 
-I have an analytical mind and enjoy problem-solving, which is often reflected in my professional life. In my time at OrganicLea, I went from being a trainee to becoming an integral part of the distribution team. During the pandemic, the box scheme doubled its customer base, and I'm proud to have contributed up-scaling changes that maintained the box pack's smooth running and pleasant atmosphere for volunteers and workers. Sometimes the pack would not go to plan or the produce delivery had to change last-minute. I often had to think on my feet and make decisions that would minimize the impact on the pack and lower the stress for everyone involved. When ordering produce for the scheme, I had to balance the packing team's capacity, our weekly budget, the needs of our suppliers, and our aim to deliver a variety of high-quality, fresh and local veg to our customers. 
+I have an analytical mind and enjoy problem-solving, something that is often reflected in my professional life. In my time at OrganicLea, I went from being a trainee to becoming an integral part of the distribution team. During the pandemic, the box scheme doubled its customer base, and I'm proud to have contributed up-scaling changes that maintained the box pack's smooth running and pleasant atmosphere for volunteers and workers. Sometimes the pack would not go to plan or the produce delivery had to change last-minute. I often had to think on my feet and make decisions that would minimize the impact on the pack and lower the stress for everyone involved. When ordering produce for the scheme, I successfully balanced the packing team's capacity, our weekly budget, the needs of our suppliers, and our aim to deliver a variety of high-quality, fresh and local veg to our customers. 
 
 <!-- Analytical mind, problem solving, use veg box as example (100% growth) -->
 
 #### Teamwork
 
-I'm a calm, easy-going person who is conscious of other people's moods and needs. When working in teams throughout my professional and student experience, I've often received compliments on my calm demeanour, level-headnesses, and ability to keep the team motivated and on track. Here are some recent examples: the retros and stand-ups that I facilitated during group projects at Maker's were often the most productive and rewarding. I also proposed daily mood check-ins that were well-received and fostered team cohesion. During my time at Edventure, our group had to work to strict deadlines to organize events and present our project to stakeholders; Afterwards, I was recognized by my group for keeping us focused and preventing us from feeling overwhelmed in otherwise high-pressure situations. I was also complimented for my ability to give and recieve feedback in a way that was non-judgemental and productive.
+I'm a calm, easy-going person who is conscious of other people's moods and needs. When working in teams throughout my professional and student experience, I've often received compliments on my calm demeanour, level-headnesses, and ability to keep the team motivated and on track. Here are some recent examples: the retros and stand-ups that I facilitated during group projects at Maker's were often the most productive and rewarding; I also proposed morning mood check-ins that were well-received and fostered team cohesion. During my time at Edventure, our group had to work to strict deadlines to present our project to stakeholders and to organize events; Afterwards, I was recognized by my group for keeping us focused and preventing us from feeling overwhelmed in otherwise high-pressure situations. I was also complimented for my ability to give and recieve feedback in a way that was non-judgemental and productive.
 
 <!-- listener, calming, funny, easy going use edventure MSc or vegbox as example 
 able to bring up conflicting personalities in a healthy and productive way?-->
 
 #### Communication
+I have a solid range of written and spoken communications skills gained by experience. I aim for clear and concise communication in whatever I do. I've produced or edited a variety of written work: weekly newsletters, magazine articles, my MSc thesis and scientific research. At Edventure, I presented our business idea to stakeholders, and I wrote a press release that was picked up by several local media outlets. During my MSc, my courses almost exclusively had oral exams, and I had many opportunities for public speaking, so I feel confident presenting complex topics clearly. 
 
-<!-- writing, clear, honest, lay groundwork, use Jellied Eel or MSx thesis as example? -->
+<!-- writing, clear, honest, lay groundwork, use Jellied Eel or MSx thesis as example? My management of volunteers brought back regulars or something, Writing experience, link to articles?-->
 
 ## Education
 
 #### Makers Academy Tech Bootcamp (March 2023 - July 2023)
 - Completed a 16-week intensive coding bootcamp focused on full-stack software engineering 
-- Practiced pair programming every day in order to solve problems effeciently, requiring teamwork and communication.
+- Practised pair programming every day in order to solve problems efficiently, requiring teamwork and communication.
 - Frequent group projects using Github for version control annd AGILE methodologies for workflow: MVP, sprints, tickets, stand-ups and retros.
 - Learned TDD and OOP design principles
 - Made Projects using Ruby, JavaScript, PostgreSQL, MERN stack, and React Native
@@ -115,7 +116,6 @@ able to bring up conflicting personalities in a healthy and productive way?-->
 ## Hobbies
 
 - cooking
-- hiking
-- camping
-- plants
+- hiking and camping
+- plants§
 - board games and roleplaying games
